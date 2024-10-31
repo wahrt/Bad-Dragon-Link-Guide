@@ -1,8 +1,10 @@
 - [Locks](#locks)
 - [Gameplan](#gameplan)
 - [Rokket](#Rokket)
-	- Borrelend Dragon
-- [Bystial](Bystial)
+	- [Borrelend Dragon](#Borrelend-Dragon)
+- [Bystial](#Bystial)
+- [Red-Eyes](#Red-Eyes)
+- [Baby Dragon](#Baby-dragon)
 - Generic Dragon Extender
 ## Locks
 
