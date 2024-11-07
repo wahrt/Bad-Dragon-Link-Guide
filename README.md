@@ -1,10 +1,11 @@
 - [Locks](#locks)
 - [Gameplan](#gameplan)
-- [Rokket](#Rokket)
-	- [Borrelend Dragon](#Borrelend-Dragon)
-- [Bystial](#Bystial)
-- [Red-Eyes](#Red-Eyes)
-- [Baby Dragon](#Baby-dragon)
+- [Example Combos](#example-combos)
+- [Rokket](#rokket)
+	- [Borrelend Dragon](#borrelend-dragon)
+- [Bystial](#bystial)
+- [Red-Eyes](#red-eyes)
+- [Baby Dragon](#baby-dragon)
 - Generic Dragon Extender
 ## Locks
 
@@ -14,6 +15,13 @@
 ## Gameplan
 
 - Striker Dragon → Romulus
+
+## Example Combos
+- Black Metal Dragon + 1 Discard
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/a3bp3r?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+- Starliege Seyfert (or Chaos Space) + 1 Dragon Extender + 1 Discard
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/cdwmlr?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
 ## Rokket
 
 | Card                    | Effect                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Comment                                                                                                                                                                             |
