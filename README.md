@@ -18,7 +18,7 @@
 - Striker Dragon → Romulus
 
 ## Example Combos
-- Black Metal Dragon + 1 Discard
+- Black Metal Dragon + 1 Discard (`Triple Burst Dragon` line)
 
 <div style="position:relative; width:100%; height:0px; padding-bottom:56.250%">
 	<iframe
@@ -37,14 +37,31 @@
 	</iframe>
 </div>
 
-- Starliege Seyfert (or Chaos Space) + 1 Dragon Extender + 1 Discard
+- Starliege Seyfert (or Chaos Space) + 1 Discard (`Dillingerous Dragon` line)
+
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%">
+	<iframe
+		allow="fullscreen"
+		allowfullscreen
+		height="100%"
+		src="https://streamable.com/e/w6654d"
+		width="100%"
+		style="border:none;
+		width:100%;
+		height:100%;
+		position:absolute;
+		left:0px;
+		top:0px;
+		overflow:hidden;">
+	</iframe>
+</div>
 
 ## Rokket
 
 | Card | Effect | Comment |
 | --- | --- | --- |
 | Rokket Tracer | ①: (Quick Effect): You can target 1 face-up card you control; destroy it, and if you do, Special Summon 1 "Rokket" monster from your Deck, except "Rokket Tracer", also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters.<br/>You can only use this effect of "Rokket Tracer" once per turn. | Access to this card from Absorouter Dragon/Quick Launch/Starliege Seyfert (only do this if you already have the baby dragon) |
-| Rokket Recharger | ~~①: If a DARK monster(s) you control that was Special Summoned from the Extra Deck is destroyed by battle or card effect: You can send this card from your hand or field to the GY, then target 1 of those destroyed monsters; Special Summon 1 DARK monster from your GY with a different original name from that targeted monster.<br/>You can only use this effect of "Rokket Recharger" once per turn.<br/>②: While you control a DARK monster Special Summoned from the Extra Deck, your opponent's monsters cannot target this card for attacks.~~ |
+| Rokket Recharger | ①: If a DARK monster(s) you control that was Special Summoned from the Extra Deck is destroyed by battle or card effect: You can send this card from your hand or field to the GY, then target 1 of those destroyed monsters; Special Summon 1 DARK monster from your GY with a different original name from that targeted monster.<br/>You can only use this effect of "Rokket Recharger" once per turn.<br/>~~②: While you control a DARK monster Special Summoned from the Extra Deck, your opponent's monsters cannot target this card for attacks.~~ |
 | Rokket Caliber | ①: You can Special Summon this card (from your hand) to your zone a DARK Link Monster points to.<br/>You can only Special Summon "Rokket Caliber" once per turn this way.<br/>~~②: You can Tribute this card; Special Summon 1 DARK Dragon or Machine monster from your hand, except "Rokket Caliber".<br/>You can only use this effect of "Rokket Caliber" once per turn.~~   | Dragon Extender.<br/>Summon this if you already have "Rokket Recharger" |
 | Absorouter Dragon | ~~①: If you control a "Rokket" monster, you can Special Summon this card (from your hand).<br/>You can only Special Summon "Absorouter Dragon" once per turn this way.~~<br/>②: If this card is sent to the GY: You can add 1 "Rokket" monster from your Deck to your hand.<br/>You can only use this effect of "Absorouter Dragon" once per turn. | Rokket Tracer Searcher |
 | Quick Launch | ①: Special Summon 1 "Rokket" monster from your Deck, but it cannot attack, also destroy it during the End Phase. |
@@ -58,6 +75,7 @@
 | Dragon Ravine | ①: Once per turn: You can discard 1 card, then activate 1 of these effects;<br/>~~● Add 1 Level 4 or lower "Dragunity" monster from your Deck to your hand.~~<br/>● Send 1 Dragon monster from your Deck to the GY. | Target Priority: Absorouter Dragon >The Bystial Lubellion = Starliege Seyfert |
 | Guardragon Pisty | You cannot Special Summon monsters, except Dragon monsters.<br/>①: During your Main Phase: You can target 1 of your Dragon monsters that is banished or in your GY; Special Summon it to your zone that 2 or more Link Monsters point to.<br/>You can only use this effect of "Guardragon Pisty" once per turn.<br/>You can only Special Summon "Guardragon Pisty(s)" once per turn. | Summon this in the zone where Romulus pointed to the left. |
 | Triple Burst Dragon | ~~①: Once per turn, during the Damage Step, when a Spell/Trap Card, or monster effect, is activated (Quick Effect): You can negate the activation.<br/>②: If this card attacks a Defense Position monster, inflict piercing battle damage.<br/>③: During your Main Phase, except the turn this card was Special Summoned: You can Tribute this card, then target 1 Link-2 or lower monster in your GY; Special Summon it, then you can Special Summon 1 Level 4 or lower Dragon monster from your hand.~~ | This is mainly used for the Link Arrow pointing down. Summon to the zone where Romulus used to be at. |
+| Dillingerous Dragon | ①: Once per turn, during your opponent's End Phase: You can target 1 Attack Position monster your opponent controls that did not declare an attack this turn; destroy it, and if you do, inflict damage to your opponent equal to that monster's original ATK.<br/>②: If a "Rokket" monster(s) is Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field.<br/>You can only use each effect of "Dillingerous Dragon" once per turn.  |
 
 ## Bystial
 
